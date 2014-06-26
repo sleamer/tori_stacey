@@ -1,6 +1,6 @@
-name: Ñame
+name: Tori Abernathy
 -
-profession: Gräphic Designer
+profession: Artist
 -
 email: 
-<hi@yourdomain.com>
+<tori@toriabernathy.com>
