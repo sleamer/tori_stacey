@@ -1,0 +1,13 @@
+title: Atmospheres
+-
+date: 2010-12
+-
+content:
+<br> 
+<em>Augmented reality audio walking tour through the SE industrial area
+Backpack, laptop, Holux GPS unit, originally designed software, audio, tourguide map</em>
+
+<br>
+RECESS and the SE Industrial District
+
+An audio walking tour through the industrial area of SE Portland that utilizes geofencing technologies to allow a gathered archive of site-specific sounds to respond to, rather than direct, the movement of the walker/listener. The audioplayer uses the position of the walker as the cue to call up individual and overlapping tracks that were recorded on site, creating a ‘choose your own adventure’ tour. I’ve recorded and collected tracks that explore this area in the SE as a site that embodies both the magnificent and mundane. This takes the form of interviews, recorded daily life, lectures,  and walks. The audio - rich with jarring, soothing, and interrupted sounds from interactions with the area - blends with local sounds, creating confusion over what’s in real-time or playback, producing a heightened sensitivity to these often overlooked aspects of our environment that nonetheless inform one’s behaviour and disposition.
